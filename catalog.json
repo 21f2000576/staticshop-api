@@ -28,26 +28,27 @@
     { "id": "prod-00c266bd-022", "name": "Pro Item 22", "category": "sports", "price": 118.32, "stock": 146, "rating": 2.7 }
   ],
   "aggregations": {
-  "electronics": {
-    "count": 6,
-    "inventoryValue": 194705.85
-  },
-  "clothing": {
-    "count": 4,
-    "inventoryValue": 170947.6
-  },
-  "home": {
-    "count": 6,
-    "inventoryValue": 123962.68
-  },
-  "books": {
-    "count": 3,
-    "inventoryValue": 14186.1
-  },
-  "sports": {
-    "count": 3,
-    "inventoryValue": 60073.36
-  }
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 194705.85
+    },
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 170947.60
+    },
+    "home": {
+      "count": 6,
+      "inventoryValue": 123962.68
+    },
+    "books": {
+      "count": 3,
+      "inventoryValue": 14186.10
+    },
+    "sports": {
+      "count": 3,
+      "inventoryValue": 60073.36
+    }
 }
+
 
 }
